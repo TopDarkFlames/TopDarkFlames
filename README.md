@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👨🏻‍💻 Braian Henrique
 
-<!--
-**TopDarkFlames/TopDarkFlames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Ciência da Computação | Arch Linux Enthusiast`**
 
-Here are some ideas to get you started:
+Olá! Sou estudante de Ciência da Computação, focado no avanço contínuo. Usuário avançado de **Linux (Arch)** e apaixonado por personalização e performance. Busco minha primeira oportunidade de estágio em desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias
+
+<div style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  
+  <br><br>
+
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div>
+
+<br/>
+<br/>
