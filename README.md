@@ -111,7 +111,11 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 <div align="center">
 
-[![SEU_REPO](https://github-readme-stats.vercel.app/api/pin/?username=TopDarkFlames&repo=NOME_DE_UM_REPO_SEU&theme=dark&title_color=DC143C&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=DC143C)](https://github.com/TopDarkFlames/NOME_DE_UM_REPO_SEU)
+### [GTS Signal // Market Hunter](https://github.com/TopDarkFlames/pixelmon-gts-signal)
+
+Real-time auction intelligence panel and automation bridge for tracking rare listings, alerts, and market movement.
+
+`Ruby` `Python` `HTMX` `Discord Bot` `Automation`
 
 </div>
 
