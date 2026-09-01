@@ -1,24 +1,25 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TopDarkFlames/TopDarkFlames/main/Hellsing%20Bats.gif"/>
+  <img src="https://raw.githubusercontent.com/TopDarkFlames/TopDarkFlames/main/Hellsing%20Bats.gif" alt="Hellsing Bats">
 </div>
 
 <!-- TITLE ANIMADO -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=26&pause=2000&color=DC143C&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;The+Bird+of+Hermes+is+my+name;To+become+a+monster+is+to+admit+you+were+too+weak+to+remain+human." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=26&pause=2000&color=DC143C&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;The+Bird+of+Hermes+is+my+name;To+become+a+monster+is+to+admit+you+were+too+weak+to+remain+human" alt="Typing SVG">
 </div>
 
-<br/>
+<br>
 
 <!-- CONTACT -->
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-henrique-do-rosario-ribeiro-5a3a76317)
+
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-1a1a1a?style=flat-square&logo=vercel&logoColor=c9a84c)](https://topdarkflames.github.io/)
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
@@ -30,24 +31,23 @@
 
 **Full-Stack Developer**
 
-> > *"The Bird of Hermes is my name, eating my wings to make me tame."*
+> *"The Bird of Hermes is my name, eating my wings to make me tame."*
 
 Currently deepening my studies in **Java**, **SQL** and **Rust**, applying this knowledge to real personal projects — automation scripts, portfolios, and web tools.
 
 I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git**, **Python** and am currently exploring **AWS & Cloud Computing**.
 
 <div align="center">
-  <img width="500px" height="800px" src="https://raw.githubusercontent.com/TopDarkFlames/Braian-Ribeiro/main/alucard-hellsing.gif" alt="character"/>
+  <img width="500px" height="800px" src="https://raw.githubusercontent.com/TopDarkFlames/Braian-Ribeiro/main/alucard-hellsing.gif" alt="Alucard">
 </div>
 
-<br clear="right"/>
+<br clear="right">
 
-
-◈  Class      →  Full-Stack Developer
-◈  Origin     →  Brazil 🇧🇷
-◈  Covenant   →  Open Source
-◈  Build      →  INT / DEX
-◈  Status     →  Hunter. Refuses to go hollow.
+◈ Class → Full-Stack Developer  
+◈ Origin → Brazil 🇧🇷  
+◈ Covenant → Open Source  
+◈ Build → INT / DEX  
+◈ Status → Hunter. Refuses to go hollow.
 
 ---
 
@@ -76,12 +76,13 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TopDarkFlames&theme=dark&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=DC143C" alt="streak"/>
+<img height="165em" src="https://streak-stats.demolab.com?user=TopDarkFlames&theme=dark&ring=DC143C&fire=DC143C&currStreakLabel=DC143C&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=DC143C" alt="GitHub Streak">
 
-<br/><br/>
+<br><br>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TopDarkFlames&show_icons=true&theme=dark&title_color=DC143C&icon_color=DC143C&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopDarkFlames&layout=compact&theme=dark&title_color=DC143C&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=TopDarkFlames&show_icons=true&theme=dark&title_color=DC143C&icon_color=DC143C&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a" alt="GitHub Stats">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopDarkFlames&layout=compact&theme=dark&title_color=DC143C&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a" alt="Top Languages">
 
 </div>
 
@@ -91,7 +92,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TopDarkFlames&bg_color=0d0d0d&color=DC143C&line=DC143C&point=ffffff&area=true&area_color=2b0000&hide_border=false&border_color=2a2a2a&title_color=DC143C)](https://github.com/TopDarkFlames)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TopDarkFlames&bg_color=0d0d0d&color=DC143C&line=DC143C&point=ffffff&area=true&area_color=2b0000&hide_border=false&border_color=2a2a2a&title_color=DC143C)
 
 </div>
 
@@ -122,5 +123,6 @@ Real-time auction intelligence panel and automation bridge for tracking rare lis
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TopDarkFlames/TopDarkFlames/main/frase-sangue.svg" alt="Blood Quote"/>
+  <img src="https://raw.githubusercontent.com/TopDarkFlames/TopDarkFlames/main/frase-sangue.svg" alt="Blood Quote">
 </div>
+```
