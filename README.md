@@ -19,6 +19,12 @@
 
 </div>
 
+<div align="center">
+  <a href="https://topdarkflames.github.io/">
+    <img src="portfolio-preview.gif" width="720" alt="Preview of the TopDarkFlames portfolio: blue light trails where every strand is one of my GitHub repositories">
+  </a>
+</div>
+
 <br>
 
 <div align="center">
